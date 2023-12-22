@@ -1,4 +1,4 @@
-const BLOG_LIST = document.querySelector('.blogs')
+const BLOG_LIST = document.querySelector('.articles')
 const BLOG_CONTENT = [document.createElement('div'), document.createElement('h1'), document.createElement('p')]
 
 
