@@ -18,11 +18,11 @@
     cursor: pointer;
   }
   
-  .blogs h1 {
+  .articles h1 {
     color: rgb(220, 217, 197);
     cursor: pointer;
   }
-  .blogs p {
+  .articles p {
     font-size: 120%;
     margin-right: 30px;
     padding: 25px;
@@ -32,7 +32,7 @@
     cursor: pointer;
     transition: 400ms;
   }
-  .blogs {
+  .articles {
     display: flex;
     flex-wrap: wrap;
   }
